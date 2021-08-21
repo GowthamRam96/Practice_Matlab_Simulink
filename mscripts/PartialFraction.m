@@ -6,7 +6,7 @@ n=[1 0 8 6]
 d=[1 4 3 1]
 [r,p,k] = residue(n,d)
 
-%% Results
+%% Results 
 % r =
 % 
 %   -6.6772 + 0.0000i
