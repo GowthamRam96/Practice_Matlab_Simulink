@@ -10,5 +10,3 @@ title('Straight line equation');
 xlabel('xaxis')
 ylabel('yaxis')
 grid
-
-#Results
