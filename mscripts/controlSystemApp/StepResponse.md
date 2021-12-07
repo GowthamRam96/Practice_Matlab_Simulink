@@ -16,7 +16,6 @@ s = stepinfo(sys1)
 
 s = 
 
-  struct with fields:
 
         RiseTime: 1.3463
     SettlingTime: 4.5271
