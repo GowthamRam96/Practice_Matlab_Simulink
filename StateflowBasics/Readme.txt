@@ -1,0 +1,1 @@
+This folder helps us in understanding the basics of stateflow and problems solved with example use cases.
