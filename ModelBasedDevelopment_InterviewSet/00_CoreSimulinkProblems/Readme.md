@@ -1,5 +1,5 @@
 # List of Problems
-1. Build a model to add, subtract, multiply, and divide two signals.
+1. Build a model to add, subtract, multiply, and divide two signals. - Refer to Solution_01.slx
 
 2. Create a model that generates a sine wave and plots it.
 
