@@ -1,7 +1,7 @@
 # List of Problems
 1. Build a model to add, subtract, multiply, and divide two signals. - Refer to Solution_01.slx
 
-2. Create a model that generates a sine wave and plots it.
+2. Create a model that generates a sine wave and plots it. - Refer to Solution_02.slx
 
 3. Implement a simple first‑order transfer function.
 
